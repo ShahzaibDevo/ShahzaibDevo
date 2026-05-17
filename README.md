@@ -5,7 +5,7 @@ DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Observability |
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 I am a DevOps & Cloud Engineer focused on building scalable, automated, and production-ready cloud infrastructure.
 
@@ -150,13 +150,13 @@ Completed structured DevOps learning path with practical labs covering CI/CD, Do
 
 📚 Bachelor of Science in Software Engineering  
 University of Okara, Pakistan  
-📅 2021 – 2025 (Expected / Completed)
+📅 2021 – 2025 (2021 / 2025)
 
 Focused on software development, cloud computing fundamentals, and system design concepts relevant to DevOps and cloud engineering.
 
 ---
 
-## 🚀 Featured Projects (GitHub Portfolio)
+##  Featured Projects (GitHub Portfolio)
 
 ### 🔥 AWS EKS 3-Tier Architecture
 - Kubernetes deployment on AWS EKS  
