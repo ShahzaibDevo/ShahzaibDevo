@@ -1,10 +1,11 @@
 # 🌟 Welcome to My GitHub Profile
-# 👋 Hi, I'm Shahzaib Munir
 
- DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Observability | AIOps
+# 👋 Hi, I'm Shahzaib Munir  
+DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Observability | AIOps  
+
 ---
 
-##  Professional Summary
+## 🚀 Professional Summary
 
 I am a DevOps & Cloud Engineer focused on building scalable, automated, and production-ready cloud infrastructure.
 
@@ -13,81 +14,82 @@ I specialize in designing and implementing CI/CD pipelines, cloud-native deploym
 My core focus is improving system reliability, deployment automation, and cloud scalability using AWS and Kubernetes-based architectures.
 
 ---
+
 ## ⚡ Skills & Technologies
 
 ### 🧑‍💻 Programming & Scripting
-- Python, SQL, JavaScript, HTML, CSS
+- Python, SQL, JavaScript, HTML, CSS  
 - Bash Scripting (Automation & System Tasks)
 
 ---
 
 ### 🔄 CI/CD & DevOps Tools
-- Jenkins, GitHub Actions, AWS CodePipeline
-- CI/CD Pipeline Design & Automation
+- Jenkins, GitHub Actions, AWS CodePipeline  
+- CI/CD Pipeline Design & Automation  
 
 ---
 
 ### ☁️ Cloud Platforms
-- Amazon Web Services (AWS)
-- Familiar with Azure & Google Cloud Platform (GCP)
+- Amazon Web Services (AWS)  
+- Familiar with Azure & Google Cloud Platform (GCP)  
 
 ---
 
 ### 🐳 Containers & Orchestration
-- Docker
-- Kubernetes (EKS, cluster deployment & management)
-- Amazon ECS
+- Docker  
+- Kubernetes (EKS, cluster deployment & management)  
+- Amazon ECS  
 
 ---
 
 ### ⚙️ Infrastructure as Code (IaC)
-- Terraform
-- AWS CloudFormation
+- Terraform  
+- AWS CloudFormation  
 
 ---
 
 ### 📊 Monitoring & Logging
-- AWS CloudWatch
-- AWS CloudTrail
-- Grafana
+- AWS CloudWatch  
+- AWS CloudTrail  
+- Grafana  
 
 ---
 
 ### 🗄️ Databases
-- Amazon RDS
-- Amazon Aurora
-- DynamoDB
-- Oracle (Basic)
+- Amazon RDS  
+- Amazon Aurora  
+- DynamoDB  
+- Oracle (Basic)  
 
 ---
 
 ### 🖥️ Operating Systems
-- Linux (Ubuntu, CentOS)
-- Windows Server (Basic Administration)
+- Linux (Ubuntu, CentOS)  
+- Windows Server (Basic Administration)  
 
 ---
 
 ### ☁️ AWS Core Services
-- EC2, S3, IAM, VPC
-- RDS, Route53, Lambda
-- CloudFront, CloudWatch
-  
+- EC2, S3, IAM, VPC  
+- RDS, Route53, Lambda  
+- CloudFront, CloudWatch  
+
 ---
 
-##  Continuous Learning & Focus Areas
+## 🚀 Continuous Learning & Focus Areas
 
 I am actively improving my DevOps and Cloud engineering skills with a strong focus on building scalable, secure, and production-ready systems.
 
 Currently focusing on:
 
-🐚 Advanced Linux System Administration  
-🐍 Python Scripting & Automation  
-🐳 Docker & Kubernetes (Containerization & Orchestration)  
-🛠️ CI/CD Pipeline Optimization (Jenkins, GitHub Actions, AWS CodePipeline)  
-☸️ Kubernetes & Cloud-Native Application Deployment  
-🌐 Infrastructure as Code (Terraform, AWS CloudFormation)  
-📊 Observability & Monitoring (Prometheus, Grafana, AWS CloudWatch)  
-⚙️ Configuration Management (Ansible)
+- Advanced Linux System Administration  
+- Python Scripting & Automation  
+- Docker & Kubernetes (Containerization & Orchestration)  
+- CI/CD Pipeline Optimization (Jenkins, GitHub Actions, AWS CodePipeline)  
+- Kubernetes & Cloud-Native Application Deployment  
+- Infrastructure as Code (Terraform, AWS CloudFormation)  
+- Observability & Monitoring (Prometheus, Grafana, AWS CloudWatch)  
+- Configuration Management (Ansible)  
 
 ---
 
@@ -116,7 +118,6 @@ Implemented centralized monitoring and alerting using AWS CloudWatch and Prometh
 ### 🐳 Containerized Microservices Architecture
 Built and deployed containerized microservices applications using Docker and Kubernetes, enabling scalability, service isolation, and efficient resource utilization.
 
-
 ---
 
 ## 📈 Learning Journey & Certifications
@@ -141,10 +142,10 @@ Completed structured DevOps learning path with practical labs covering CI/CD, Do
 
 ### 🏅 Certifications & Practice
 - AWS Cloud Hands-on Practice (100 Days Program)  
-- DevOps Hands-on Labs (100 Days Program)
+- DevOps Hands-on Labs (100 Days Program)  
 
-  ---
-  
+---
+
 ## 🎓 Education
 
 📚 Bachelor of Science in Software Engineering  
@@ -154,46 +155,46 @@ University of Okara, Pakistan
 Focused on software development, cloud computing fundamentals, and system design concepts relevant to DevOps and cloud engineering.
 
 ---
+
 ## 🚀 Featured Projects (GitHub Portfolio)
 
 ### 🔥 AWS EKS 3-Tier Architecture
-- Kubernetes deployment on AWS EKS
-- Terraform-based infrastructure provisioning
-- Load balancing and auto scaling implemented
+- Kubernetes deployment on AWS EKS  
+- Terraform-based infrastructure provisioning  
+- Load balancing and auto scaling implemented  
 
 🔗 GitHub: https://github.com/ShahzaibDevo
 
 ---
 
 ### ⚙️ CI/CD Pipeline (Flask App)
-- Dockerized application deployment
-- Automated CI/CD using GitHub Actions
-- End-to-end pipeline automation
+- Dockerized application deployment  
+- Automated CI/CD using GitHub Actions  
+- End-to-end pipeline automation  
 
 🔗 GitHub: https://github.com/ShahzaibDevo
 
 ---
 
 ### 📊 Observability Stack
-- Prometheus + Grafana monitoring system
-- Real-time metrics and alerting setup
+- Prometheus + Grafana monitoring system  
+- Real-time metrics and alerting setup  
 
 🔗 GitHub: https://github.com/ShahzaibDevo
 
 ---
 
 ### 🤖 AIOps Monitoring System
-- AI-based anomaly detection system
-- Automated infrastructure alerting
+- AI-based anomaly detection system  
+- Automated infrastructure alerting  
 
 🔗 GitHub: https://github.com/ShahzaibDevo
+
 ---
 
 ## 📬 Contact & Connect
 
 📩 Email: infoshahzaibmunir@gmail.com  
 🌍 GitHub: https://github.com/ShahzaibDevo  
-🔗 LinkedIn: https://www.linkedin.com/in/shahzaib-munir-5aa99032b/  
-📍 Location: Lahore, Pakistan  
-
----
+🔗 LinkedIn: https://www.linkedin.com/in/shahzaib21/  
+📍 Location: Lahore, Pakistan
