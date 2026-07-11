@@ -18,9 +18,14 @@ I am a passionate **DevOps & Cloud Engineer** focused on building scalable, auto
 ## 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
+
 
 ## 🧰 DevOps Toolchain
+
+## ☁️ AWS Services
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Route53](https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![ELB](https://img.shields.io/badge/Load%20Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
@@ -61,8 +66,3 @@ I am a passionate **DevOps & Cloud Engineer** focused on building scalable, auto
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzaibDevo&show_icons=true&theme=dark&hide_border=true" alt="Shahzaib's GitHub Stats" />
-</p>
