@@ -1,200 +1,50 @@
 # 🌟 Welcome to My GitHub Profile
 
-# 👋 Hi, I'm Shahzaib Munir  
-DevOps & Cloud Engineer | AWS | Kubernetes | Terraform | CI/CD | Observability | AIOps  
+## 👋 Hi, I'm Shahzaib Munir
+**DevOps & Cloud Engineer** | AWS | Kubernetes | Terraform | CI/CD | GitOps
 
 ---
 
-##  Professional Summary
+## 🚀 Professional Summary
 
-I am a DevOps & Cloud Engineer focused on building scalable, automated, and production-ready cloud infrastructure.
+I am a passionate **DevOps & Cloud Engineer** focused on building scalable, highly available, and production-ready cloud infrastructure. I specialize in designing robust CI/CD pipelines, automating infrastructure as code (IaC), and managing containerized applications to bridge the gap between development and operations.
 
-I specialize in designing and implementing CI/CD pipelines, cloud-native deployments, and Infrastructure as Code (IaC) using modern DevOps tools.
-
-My core focus is improving system reliability, deployment automation, and cloud scalability using AWS and Kubernetes-based architectures.
-
----
-
-## ⚡ Skills & Technologies
-
-### 🧑‍💻 Programming & Scripting
-- Python, SQL, JavaScript, HTML, CSS  
-- Bash Scripting (Automation & System Tasks)
+* 🔥 **Core Focus:** Infrastructure Automation, GitOps workflows, and Cloud Scalability.
+* ⚡ **Goal:** Engineering resilient environments that accelerate software delivery while ensuring high reliability.
 
 ---
 
-### 🔄 CI/CD & DevOps Tools
-- Jenkins, GitHub Actions, AWS CodePipeline  
-- CI/CD Pipeline Design & Automation  
+## 🛠️ What I Do
+
+* **Cloud Infrastructure:** Designing and managing secure, scalable environments on Amazon Web Services (AWS).
+* **Infrastructure as Code:** Provisioning and maintaining reusable, modular infrastructure using Terraform.
+* **Containerization & Orchestration:** Deploying cloud-native applications using Docker and managing them at scale with Kubernetes.
+* **CI/CD Automation:** Building automated pipelines with Jenkins and GitHub Actions to ensure seamless code integration and continuous deployment.
+* **Configuration Management:** Automating system configurations and application deployments using Ansible.
 
 ---
+
+## 🧰 Tech Stack & Tools
 
 ### ☁️ Cloud Platforms
-- Amazon Web Services (AWS)  
-- Familiar with Azure & Google Cloud Platform (GCP)  
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### ☸️ Containers & Orchestration
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### ⚙️ CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 📜 Infrastructure as Code & Configuration
+![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
-### 🐳 Containers & Orchestration
-- Docker  
-- Kubernetes (EKS, cluster deployment & management)  
-- Amazon ECS  
+## 📊 GitHub Stats
 
----
-
-### ⚙️ Infrastructure as Code (IaC)
-- Terraform  
-- AWS CloudFormation  
-
----
-
-### 📊 Monitoring & Logging
-- AWS CloudWatch  
-- AWS CloudTrail  
-- Grafana  
-
----
-
-### 🗄️ Databases
-- Amazon RDS  
-- Amazon Aurora  
-- DynamoDB  
-- Oracle (Basic)  
-
----
-
-### 🖥️ Operating Systems
-- Linux (Ubuntu, CentOS)  
-- Windows Server (Basic Administration)  
-
----
-
-### ☁️ AWS Core Services
-- EC2, S3, IAM, VPC  
-- RDS, Route53, Lambda  
-- CloudFront, CloudWatch  
-
----
-
-## 🚀 Continuous Learning & Focus Areas
-
-I am actively improving my DevOps and Cloud engineering skills with a strong focus on building scalable, secure, and production-ready systems.
-
-Currently focusing on:
-
-- Advanced Linux System Administration  
-- Python Scripting & Automation  
-- Docker & Kubernetes (Containerization & Orchestration)  
-- CI/CD Pipeline Optimization (Jenkins, GitHub Actions, AWS CodePipeline)  
-- Kubernetes & Cloud-Native Application Deployment  
-- Infrastructure as Code (Terraform, AWS CloudFormation)  
-- Observability & Monitoring (Prometheus, Grafana, AWS CloudWatch)  
-- Configuration Management (Ansible)  
-
----
-
-## 💡 DevOps Projects & Achievements
-
-### 🚀 CI/CD Pipeline Automation
-Designed and implemented a complete CI/CD pipeline using Jenkins, Docker, and Kubernetes to enable automated build, test, and deployment workflows for applications.
-
----
-
-### ☁️ AWS Cloud Infrastructure (Terraform)
-Provisioned and managed scalable multi-tier cloud infrastructure on AWS using Terraform, ensuring Infrastructure as Code (IaC), repeatability, and scalability.
-
----
-
-### 🌐 Website Hosting & Optimization
-Deployed a WordPress application on AWS using EC2, Route 53, and CloudFront, optimizing performance, availability, and global content delivery.
-
----
-
-### 📊 Monitoring & Observability System
-Implemented centralized monitoring and alerting using AWS CloudWatch and Prometheus to track system performance, detect failures, and improve reliability.
-
----
-
-### 🐳 Containerized Microservices Architecture
-Built and deployed containerized microservices applications using Docker and Kubernetes, enabling scalability, service isolation, and efficient resource utilization.
-
----
-
-## 📈 Learning Journey & Certifications
-
-### ☁️ 100 Days of Cloud – AWS
-Completed hands-on labs and real-world cloud exercises focusing on AWS core services, cloud infrastructure, and DevOps fundamentals.
-
-- Practiced AWS services including EC2, S3, IAM, VPC, and RDS  
-- Built hands-on cloud deployment labs  
-- Strengthened cloud architecture understanding  
-
----
-
-### 🧑‍💻 100 Days of DevOps – KodeKloud Labs
-Completed structured DevOps learning path with practical labs covering CI/CD, Docker, Kubernetes, and Linux system administration.
-
-- Hands-on experience with Docker & Kubernetes  
-- CI/CD pipeline implementation practice  
-- Linux system operations and automation basics  
-
----
-
-### 🏅 Certifications & Practice
-- AWS Cloud Hands-on Practice (100 Days Program)  
-- DevOps Hands-on Labs (100 Days Program)  
-
----
-
-## 🎓 Education
-
-📚 Bachelor of Science in Software Engineering  
-University of Okara, Pakistan  
-📅 2021 – 2025 (2021 / 2025)
-
-Focused on software development, cloud computing fundamentals, and system design concepts relevant to DevOps and cloud engineering.
-
----
-
-##  Featured Projects (GitHub Portfolio)
-
-### 🔥 AWS EKS 3-Tier Architecture
-- Kubernetes deployment on AWS EKS  
-- Terraform-based infrastructure provisioning  
-- Load balancing and auto scaling implemented  
-
-🔗 GitHub: https://github.com/ShahzaibDevo
-
----
-
-### ⚙️ CI/CD Pipeline (Flask App)
-- Dockerized application deployment  
-- Automated CI/CD using GitHub Actions  
-- End-to-end pipeline automation  
-
-🔗 GitHub: https://github.com/ShahzaibDevo
-
----
-
-### 📊 Observability Stack
-- Prometheus + Grafana monitoring system  
-- Real-time metrics and alerting setup  
-
-🔗 GitHub: https://github.com/ShahzaibDevo
-
----
-
-### 🤖 AIOps Monitoring System
-- AI-based anomaly detection system  
-- Automated infrastructure alerting  
-
-🔗 GitHub: https://github.com/ShahzaibDevo
-
----
-
-## 📬 Contact & Connect
-
-📩 Email: infoshahzaibmunir@gmail.com  
-🌍 GitHub: https://github.com/ShahzaibDevo  
-🔗 LinkedIn: https://www.linkedin.com/in/shahzaib21/  
-📍 Location: Lahore, Pakistan
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahzaibDevo&show_icons=true&theme=dark&hide_border=true" alt="Shahzaib's GitHub Stats" />
+</p>
