@@ -34,6 +34,7 @@ I am a passionate **DevOps & Cloud Engineer** focused on building scalable, auto
 ![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-FF9900?style=for-the-badge&logo=amazonvpc&logoColor=white) ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-F75421?style=for-the-badge&logo=amazonroute53&logoColor=white) ![AWS Elastic Load Balancing](https://img.shields.io/badge/AWS%20ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white) ![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
 
 ### 🔒 Security, Identity & Monitoring
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=awsiam&logoColor=white) ![Amazon CloudWatch](https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white) ![AWS Secrets Manager](https://img.shields.io/badge/AWS%20Secrets%20Manager-DD344C?style=for-the-badge&logo=awssecretsmanager&logoColor=white)
 
 
 ### ☁️ Cloud & Infrastructure
