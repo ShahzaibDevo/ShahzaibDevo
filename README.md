@@ -1,50 +1,60 @@
-# 🌟 Welcome to My GitHub Profile
+# Shahzaib Munir's GitHub Profile
 
-## 👋 Hi, I'm Shahzaib Munir
-**DevOps & Cloud Engineer** | AWS | Kubernetes | Terraform | CI/CD | GitOps
+<img src="https://github.com/Shahzaib-Munir/Shahzaib-Munir/raw/main/cover.png" alt="Cover" Width="100%">
 
----
+### **Hey There! I'm Shahzaib** 👋
 
-## 🚀 Professional Summary
-
-I am a passionate **DevOps & Cloud Engineer** focused on building scalable, highly available, and production-ready cloud infrastructure. I specialize in designing robust CI/CD pipelines, automating infrastructure as code (IaC), and managing containerized applications to bridge the gap between development and operations.
-
-* 🔥 **Core Focus:** Infrastructure Automation, GitOps workflows, and Cloud Scalability.
-* ⚡ **Goal:** Engineering resilient environments that accelerate software delivery while ensuring high reliability.
+#### DevOps & Cloud Engineer | AWS ❤ K8s | Building Resilient Systems
 
 ---
-
-## 🛠️ What I Do
-
-* **Cloud Infrastructure:** Designing and managing secure, scalable environments on Amazon Web Services (AWS).
-* **Infrastructure as Code:** Provisioning and maintaining reusable, modular infrastructure using Terraform.
-* **Containerization & Orchestration:** Deploying cloud-native applications using Docker and managing them at scale with Kubernetes.
-* **CI/CD Automation:** Building automated pipelines with Jenkins and GitHub Actions to ensure seamless code integration and continuous deployment.
-* **Configuration Management:** Automating system configurations and application deployments using Ansible.
-
----
-
-## 🧰 Tech Stack & Tools
-
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### ☸️ Containers & Orchestration
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### ⚙️ CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 📜 Infrastructure as Code & Configuration
-![Terraform](https://img.shields.io/badge/terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzaibDevo&show_icons=true&theme=dark&hide_border=true" alt="Shahzaib's GitHub Stats" />
+    <a href="https://linkedin.com/in/shahzaibmunir">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://shahzaib.dev">
+        <img src="https://img.shields.io/badge/personal website-4EAA25?style=flat-square&logo=personal-website&logoColor=white" alt="personal website">
+    </a>
+    <a href="https://github.com/Shahzaib-Munir">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://twitter.com/shahzaibmunir">
+        <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
+    </a>
 </p>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlqqHEQ32FBD2e5D8/giphy.gif" width="30"> **[# Hi 👋, I'm Shahzaib Munir A passionate DevOps & Cloud Engineer || GitOps Enthusiast]**
+
+**Email Me** 👉 [contact.shahzaib@email.dev](mailto:contact.shahzaib@email.dev) For Collaboration/Project or Anything Else. 😊😊
+
+- **🌱 I'm currently learning:** Serverless Architectures
+- **💬 Ask me about:** Cloud Infrastructure, CI/CD
+- **📬 How to reach me:** contact.shahzaib@email.dev
+- **🤗 Pronouns:** he/him
+- **⚡ Fun fact:** I love automating the mundane
+
+## 🔗 I am a DevOps. 😊😊
+
+### 🌐 Socials:
+
+<!-- The links above will be generated as a centered section below the banner, but here is a simple version for this section if needed.
+[LinkedIn](https://linkedin.com/in/shahzaibmunir) | [GitHub](https://github.com/Shahzaib-Munir) | [X](https://twitter.com/shahzaibmunir) | [personal website](https://shahzaib.dev)
+-->
+
+## Stats
+
+### all histors
+
+### projects
+
+### Repositories
+
+### Stars
+
+### Contars
+
+## Stats
+
+### Settings
