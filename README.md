@@ -40,9 +40,3 @@ I am a passionate **DevOps & Cloud Engineer** focused on building scalable, auto
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzaibDevo&show_icons=true&theme=dark&hide_border=true" alt="Shahzaib's GitHub Stats" />
-</p>
