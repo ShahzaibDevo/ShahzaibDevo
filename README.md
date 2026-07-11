@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=0&section=header&text=Hey%20There!%20I'm%20Shahzaib%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=fadeIn&textBg=false&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=68&descSize=15&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Hey%20There!%20I'm%20Shahzaib%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=fadeIn&textBg=false&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=68&descSize=15&fontAlignY=38" width="100%"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&duration=3000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=Always+Learning%2C+Always+Growing+%F0%9F%9A%80;DevOps+Engineer+%7C+Cloud+Engineer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
-
 ##  About Me
 
 I am a passionate **DevOps & Cloud Engineer** focused on building scalable, automated, and production-ready cloud infrastructure. I specialize in designing robust CI/CD pipelines, cloud-native deployments, and managing infrastructure as code (IaC) using modern DevOps tools.
