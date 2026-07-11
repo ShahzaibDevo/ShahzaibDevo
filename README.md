@@ -7,6 +7,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&duration=3000&color=58A6FF&center=true&vCenter=true&width=650&height=30&lines=Always+Learning%2C+Always+Growing+%F0%9F%9A%80;DevOps+Engineer+%7C+Cloud+Engineer;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
+
+
 ##  About Me
 
 I am a passionate **DevOps & Cloud Engineer** focused on building scalable, automated, and production-ready cloud infrastructure. I specialize in designing robust CI/CD pipelines, cloud-native deployments, and managing infrastructure as code (IaC) using modern DevOps tools.
