@@ -1,10 +1,10 @@
 # 👋 Hey There! I'm Shahzaib Munir
 
-### **DevOps & Cloud Engineer** | AWS ☁️ K8s ☸️ Terraform 📜 CI/CD 🚀
+### **DevOps & Cloud Engineer** | AWS ☁️ K8s ☸️ Terraform 📜 CI/CD 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a passionate **DevOps & Cloud Engineer** focused on building scalable, automated, and production-ready cloud infrastructure. I specialize in designing robust CI/CD pipelines, cloud-native deployments, and managing infrastructure as code (IaC) using modern DevOps tools.
 
