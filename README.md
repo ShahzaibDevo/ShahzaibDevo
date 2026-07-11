@@ -5,9 +5,15 @@
 ### DevOps & Cloud Engineer | AWS ☁️ K8s ☸️ Terraform 📜 CI/CD
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hey%20There!%20I'm%20Shahzaib%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descSize=16" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Hey%20There!%20I'm%20Shahzaib%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=fadeIn&desc=DevOps%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=62&descSize=16" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&color=F7DF1E&center=true&vCenter=true&width=500&lines=Always+Learning%2C+Always+Growing+%F0%9F%9A%80;DevOps+Engineer+%7C+Cloud+Engineer;Open+Source+Contributor)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2500&color=F7DF1E&center=true&vCenter=true&width=500&lines=Always+Learning%2C+Always+Growing+%F0%9F%9A%80;DevOps+Engineer+%7C+Cloud+Engineer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 ##  About Me
