@@ -1,4 +1,4 @@
-# 👋 Hey There! I'm Shahzaib Munir
+#  Hey 👋! I'm Shahzaib Munir
 
 ### **DevOps & Cloud Engineer** | AWS ☁️ K8s ☸️ Terraform 📜 CI/CD 
 
