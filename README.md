@@ -22,9 +22,18 @@ I am a passionate **DevOps & Cloud Engineer** focused on building scalable, auto
 
 ## 🧰 DevOps Toolchain
 
-## ☁️ AWS Services
+## ☁️ AWS Cloud Services
 
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Route53](https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![ELB](https://img.shields.io/badge/Load%20Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Secrets Manager](https://img.shields.io/badge/Secrets%20Manager-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+### 🖥️ Compute & Containers
+![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white) ![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white) ![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+
+### 📦 Storage & Databases
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) ![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+### 🌐 Networking & Content Delivery
+![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-FF9900?style=for-the-badge&logo=amazonvpc&logoColor=white) ![Amazon Route 53](https://img.shields.io/badge/Amazon%20Route%2053-F75421?style=for-the-badge&logo=amazonroute53&logoColor=white) ![AWS Elastic Load Balancing](https://img.shields.io/badge/AWS%20ELB-8C4FFF?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white) ![Amazon CloudFront](https://img.shields.io/badge/Amazon%20CloudFront-8C4FFF?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
+
+### 🔒 Security, Identity & Monitoring
 
 
 ### ☁️ Cloud & Infrastructure
